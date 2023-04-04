@@ -108,14 +108,15 @@ Project based on Three-Tier architecture:
 
    **USER: slave@gmail.com, password: 87654321**
     
-    You can change these users in **DataInitializer**
+   _You can change these users in **DataInitializer**_
+   
 11. For testing, you can use **Postman** or another utility at your discretion
     
    *Use following headers:*
 
-    *key*: **Content-Type**, *value*: **application/json** - for sending data in JSON
+   *key*: **Content-Type**, *value*: **application/json** - for sending data in JSON
 
-    *key*: **Authorization**, *value*: **Basic** ***username:password*** ***encoded in Base64*** - for authorization
+   *key*: **Authorization**, *value*: **Basic** ***username:password*** ***encoded in Base64*** - for authorization
 
 ---
 
